@@ -19,7 +19,7 @@ function Header() {
 	};
 
 	return (
-		<div className="py-6 px-4 lg:px-20">
+		<div className="w-full lg:w-auto py-6 px-4 lg:px-20">
 			{/* Icono de menú para pantallas pequeñas */}
 			<div className="lg:hidden md:hidden">
 				<FaBars className="text-3xl" color="white" onClick={toggleMenu} />

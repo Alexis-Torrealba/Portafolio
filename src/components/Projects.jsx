@@ -6,7 +6,7 @@ function Projects() {
 		Modal(title, subTitle, image, Repos, demoURL);
 	};
 	return (
-		<div className="mb-20 animate-fade-right animate-once animate-duration-1000 animate-ease-in">
+		<div className="mb-20">
 			{/** TITLE**/}
 			<div
 				className="flex flex-col justify-center items-center mb-6"
@@ -20,7 +20,7 @@ function Projects() {
 				/>
 			</div>
 			{/** Card-Modals**/}
-			<div className="flex justify-center gap-12">
+			<div className="flex justify-center flex-wrap gap-2 lg:gap-12 p-5 lg:p-0">
 				{/** col-one**/}
 				<div>
 					<div

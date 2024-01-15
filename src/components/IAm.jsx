@@ -1,7 +1,7 @@
 function IAm() {
 	return (
-		<div className="flex justify-center py-20 gap-20 ">
-			<div className="w-96 animate-fade-down animate-once animate-duration-1000">
+		<div className="flex flex-wrap justify-center py-20 gap-10 w-auto ">
+			<div className="flex items-center justify-center w-72 lg:w-96 animate-fade-down animate-once animate-duration-1000">
 				<img src="./assets/1de0c54f-f75d-47a9-b560-9be3bad2dc441.png" alt="" />
 			</div>
 			<div className="flex flex-col items-center justify-center animate-fade-left animate-once animate-duration-1000">

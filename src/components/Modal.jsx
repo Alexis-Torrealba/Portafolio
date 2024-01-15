@@ -18,7 +18,7 @@ function Modal(title, subTitle, image, Repos, demoURL) {
     `,
 		showConfirmButton: false,
 		showCloseButton: true,
-		width: '45%',
+		width: '50%',
 		background: '#1E293B',
 		color: 'White',
 	});
