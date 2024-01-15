@@ -12,7 +12,7 @@ function IAm() {
 					<div className="animate-wiggle-more animate-infinite animate-duration-[-50ms]">
 						<img src="src/assets/Mano Saluda desktop.png" alt="" />
 					</div>
-					<h2 className="text-4xl text-white ">Hola, Soy</h2>
+					<h2 className="text-4xl text-white">Hola, Soy</h2>
 				</div>
 				<div className="">
 					<h1 className="text-6xl text-white text-center">AlexisDev</h1>
